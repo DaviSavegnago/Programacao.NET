@@ -1,0 +1,194 @@
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\appsettings.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.staticwebassets.runtime.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.staticwebassets.endpoints.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.exe
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.deps.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.runtimeconfig.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.dll
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.pdb
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.AssemblyInfoInputs.cache
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.AssemblyInfo.cs
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.csproj.CoreCompileInputs.cache
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.RazorAssemblyInfo.cache
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.RazorAssemblyInfo.cs
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\scopedcss\bundle\ControleEquipamentos.styles.css
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\scopedcss\projectbundle\ControleEquipamentos.bundle.scp.css
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\07daky02je-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\eagvs1qmct-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\jg5rltwvu7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\fcfgqvfsdb-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\fbpbkvjjom-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\6vuuyqcciq-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\zwpsoxafb9-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\tlufeh5vop-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\jqfg3m3dff-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\ilfl4y7pl4-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\zy6vn31vri-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\hc18qyi84c-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\0n3xd0znam-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\bdlslyhyfy-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\h977kx64aq-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\rlykl5kcqy-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\cxbsp8gpuu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\39d7mp44zu-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\bcq4fhzrd0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\p3z4ness5g-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\8cr5516400-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\4s006uties-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\3xpns6k6pa-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\hi8zj9iuxr-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\8947ck8x09-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\wrxk94mep5-{0}-06098lyss8-06098lyss8.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\zi17frn6u4-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\6hqlwytpxk-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\deiuuumpnh-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\ljun7wh3z8-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\9nwhxz4zt4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\g30j21k988-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\o2zib6kj5b-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\ihokntdwc0-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\1g2feo013d-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\2n4th35kqg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\hu8s9crp3t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\qaf92uww5y-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\udjxu70vp6-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\34uvvi2i19-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\yjk76v21ke-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\wifl8c0hxr-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\71c1ojh7ks-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\9qnr2ktz4s-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\xd7011hiva-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\e8hejnb3nc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\e7pn3yve36-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\mgmsd6gw3u-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\6imdgtt520-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\npt2pe3j9d-{0}-356vix0kms-356vix0kms.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\wxo46zhjsi-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\6nx549tavb-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\o3qi7gnwy8-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\lws9ue8j6i-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\1nman64ocd-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\0tyl02d8ja-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\tev3efb46v-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\ui9uybtboi-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\k1532yyfkk-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\gv3eqhftq2-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\zwvvn77whv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\gw9eqvda4q-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\nun57lkpbc-{0}-x7tdh3ko7b-x7tdh3ko7b.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\compressed\8y3qc34zit-{0}-x7tdh3ko7b-x7tdh3ko7b.gz
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.dll
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\refint\ControleEquipamentos.dll
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.pdb
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.genruntimeconfig.cache
+C:\Users\davis\ControleEquipamentos\ControleEquipamentos\obj\Debug\net10.0\ref\ControleEquipamentos.dll
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\appsettings.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.staticwebassets.endpoints.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.staticwebassets.runtime.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.exe
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.deps.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.runtimeconfig.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.dll
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\bin\Debug\net10.0\ControleEquipamentos.pdb
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.AssemblyInfoInputs.cache
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.AssemblyInfo.cs
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.csproj.CoreCompileInputs.cache
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.RazorAssemblyInfo.cache
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.RazorAssemblyInfo.cs
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\scopedcss\bundle\ControleEquipamentos.styles.css
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\scopedcss\projectbundle\ControleEquipamentos.bundle.scp.css
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\07daky02je-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\eagvs1qmct-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\jg5rltwvu7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\fcfgqvfsdb-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\fbpbkvjjom-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\6vuuyqcciq-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\zwpsoxafb9-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\tlufeh5vop-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\jqfg3m3dff-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\ilfl4y7pl4-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\zy6vn31vri-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\hc18qyi84c-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\0n3xd0znam-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\bdlslyhyfy-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\h977kx64aq-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\rlykl5kcqy-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\cxbsp8gpuu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\39d7mp44zu-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\bcq4fhzrd0-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\p3z4ness5g-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\8cr5516400-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\4s006uties-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\3xpns6k6pa-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\hi8zj9iuxr-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\8947ck8x09-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\wrxk94mep5-{0}-06098lyss8-06098lyss8.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\zi17frn6u4-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\6hqlwytpxk-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\deiuuumpnh-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\ljun7wh3z8-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\9nwhxz4zt4-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\g30j21k988-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\o2zib6kj5b-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\ihokntdwc0-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\1g2feo013d-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\2n4th35kqg-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\hu8s9crp3t-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\qaf92uww5y-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\udjxu70vp6-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\34uvvi2i19-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\yjk76v21ke-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\wifl8c0hxr-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\71c1ojh7ks-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\9qnr2ktz4s-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\xd7011hiva-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\e8hejnb3nc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\e7pn3yve36-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\mgmsd6gw3u-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\6imdgtt520-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\npt2pe3j9d-{0}-356vix0kms-356vix0kms.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\wxo46zhjsi-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\6nx549tavb-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\o3qi7gnwy8-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\lws9ue8j6i-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\1nman64ocd-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\0tyl02d8ja-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\tev3efb46v-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\ui9uybtboi-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\k1532yyfkk-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\gv3eqhftq2-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\zwvvn77whv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\gw9eqvda4q-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\nun57lkpbc-{0}-x7tdh3ko7b-x7tdh3ko7b.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\compressed\8y3qc34zit-{0}-x7tdh3ko7b-x7tdh3ko7b.gz
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.dll
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\refint\ControleEquipamentos.dll
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.pdb
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ControleEquipamentos.genruntimeconfig.cache
+C:\Users\davis\OneDrive\Desktop\Avaliação 2\ControleEquipamentos\obj\Debug\net10.0\ref\ControleEquipamentos.dll

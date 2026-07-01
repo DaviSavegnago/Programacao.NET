@@ -1,0 +1,17 @@
+@page "{codigo:int}"
+@model ControleEquipamentos.Pages.Equipamentos.DetailsModel
+
+<h1>Detalhes do Equipamento</h1>
+
+@if (Model.Equipamento != null)
+{
+    <p><b>Código:</b> @Model.Equipamento.Codigo</p>
+    <p><b>Nome:</b> @Model.Equipamento.Nome</p>
+    <p><b>Patrimônio:</b> ********</p>
+    <p><b>Email:</b> @Model.Equipamento.Email</p>
+    <p><b>Situação:</b> @Model.Equipamento.Situacao</p>
+}
+
+<br />
+
+<a asp-page="Index">Voltar</a>

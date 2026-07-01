@@ -1,0 +1,47 @@
+@page
+@model ControleEquipamentos.Pages.Equipamentos.CreateModel
+
+<h1>Cadastrar Equipamento</h1>
+
+<form method="post">
+
+    <div>
+        <label>Código</label><br />
+        <input asp-for="Equipamento.Codigo" />
+        <span asp-validation-for="Equipamento.Codigo"></span>
+    </div>
+
+    <div>
+        <label>Nome</label><br />
+        <input asp-for="Equipamento.Nome" />
+        <span asp-validation-for="Equipamento.Nome"></span>
+    </div>
+
+    <div>
+        <label>Patrimônio</label><br />
+        <input asp-for="Equipamento.Patrimonio" type="password" />
+        <span asp-validation-for="Equipamento.Patrimonio"></span>
+    </div>
+
+    <div>
+        <label>Email</label><br />
+        <input asp-for="Equipamento.Email" />
+        <span asp-validation-for="Equipamento.Email"></span>
+    </div>
+
+    <div>
+        <label>Situação</label><br />
+        <select asp-for="Equipamento.Situacao">
+            <option value="Disponivel">Disponível</option>
+            <option value="EmUso">Em Uso</option>
+            <option value="Manutencao">Manutenção</option>
+        </select>
+    </div>
+
+    <br />
+
+    <button type="submit">Salvar</button>
+
+</form>
+
+<a asp-page="Index">Voltar</a>

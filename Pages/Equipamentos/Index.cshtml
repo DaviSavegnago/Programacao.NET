@@ -1,0 +1,43 @@
+@page
+@model ControleEquipamentos.Pages.Equipamentos.IndexModel
+
+<h1>Lista de Equipamentos</h1>
+
+<a asp-page="Create">Novo Equipamento</a>
+
+<br /><br />
+
+@if (Model.Equipamentos == null || Model.Equipamentos.Count == 0)
+{
+    <p>Nenhum equipamento cadastrado.</p>
+}
+else
+{
+    <table border="1" cellpadding="5">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Situação</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        @foreach (var item in Model.Equipamentos)
+        {
+            <tr>
+                <td>@item.Codigo</td>
+                <td>@item.Nome</td>
+                <td>@item.Email</td>
+                <td>@item.Situacao</td>
+                <td>
+                    <a asp-page="Details" asp-route-codigo="@item.Codigo">Detalhes</a> |
+                    <a asp-page="Delete" asp-route-codigo="@item.Codigo">Excluir</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
